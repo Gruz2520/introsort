@@ -30,5 +30,5 @@ IntroSort, благодаря своим гибридным свойствам, 
 
 ### Другое
 - ID посылки на codeforces: [292900889](https://dsahse.contest.codeforces.com/group/NOflOR1Qt0/contest/565612/submission/292900889)
-- [Ссылка на реп]()
+- [Ссылка на реп](https://github.com/Gruz2520/introsort)
 
